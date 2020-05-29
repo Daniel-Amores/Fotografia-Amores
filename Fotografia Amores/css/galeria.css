@@ -1,0 +1,19 @@
+#Galería h2, h5 {
+    text-align: center;
+}
+
+#Galería .contenedor {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+}
+
+#"articulos" {
+    margin: 15px;
+    
+}
+
+#Galería img {
+    width: 100%;
+    max-width: 300px;
